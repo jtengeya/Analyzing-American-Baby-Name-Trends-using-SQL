@@ -4,7 +4,7 @@ import urllib.parse
 
 host = 'localhost'
 username = 'root'
-password = urllib.parse.quote_plus('@Jayson..26')
+password = urllib.parse.quote_plus('@Badkey..26')
 
 conn_string = f'mysql+pymysql://{username}:{password}@{host}/'
 
